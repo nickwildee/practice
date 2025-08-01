@@ -13,3 +13,7 @@ function sayBye() {
 function test() {
   return 0;
 }
+
+function trueF() {
+  return true;
+}
