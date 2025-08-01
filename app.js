@@ -9,3 +9,7 @@ function premiumHello(name) {
 function sayBye() {
   console.log("Bye!");
 }
+
+function test() {
+  return 0;
+}
