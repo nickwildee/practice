@@ -5,3 +5,7 @@ function sayHello() {
 function premiumHello(name) {
   console.log(`Hello ${name}`);
 }
+
+function sayBye() {
+  console.log("Bye!");
+}
